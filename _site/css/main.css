@@ -195,7 +195,7 @@ hr {
 .site-header {
   border-bottom: 1px solid #eaeaea;
   margin-top: -2rem;
-  max-width: 48rem; }
+  max-width: 60rem; }
   .site-header p {
     font-size: 0.875rem; }
   .site-header .site-intro {
@@ -223,22 +223,20 @@ hr {
   padding: 2rem 1.5rem;
   margin: 1rem;
   box-sizing: border-box;
-  max-width: 48rem; }
+  max-width: 60rem; }
 
 /**
  * Pages
  */
 .home section + section {
   margin-top: 2rem;
-  max-width: 48rem; }
+  max-width: 60rem; }
 
 .post-list > li {
   margin-bottom: 0.5rem;
   list-style-type: none;
   margin-left: -2rem; }
   .post-list > li a {
-    color: #333;
-    text-decoration: none;
     font-weight: normal; }
     .post-list > li a:hover {
       color: #0645ad;
@@ -247,7 +245,7 @@ hr {
     font-size: 0.875rem;
     color: #aaa;
     display: inline-block; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1000px) {
     .post-list > li time {
       display: block;
       font-size: 0.875rem; } }

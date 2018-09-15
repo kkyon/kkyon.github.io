@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: notebook_html
+title: Botflow and Jupyter Notebook  - Analysis fresh real time data and visual crawler
+tags: [Botflow,Jupyter Notebook, Web crawler]
+comment: true
+---
+
+
 <html>
 <head><meta charset="utf-8" />
 

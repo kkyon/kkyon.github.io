@@ -13,7 +13,7 @@ $big-font-size:    1.3rem;
 $base-line-height: 1.5;
 
 $spacing-unit:     2rem;
-$max-width:        48rem;
+$max-width:        60rem;
 
 $text-color:       #333;
 $background-color: #fff;
@@ -24,8 +24,8 @@ $grey-color-light: lighten($grey-color, 25%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$on-palm:          600px;
-$on-:              800px;
+$on-palm:          1000px;
+$on-:              1200px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -46,3 +46,5 @@ $on-:              800px;
         "layout",
         "syntax-highlighting"
 ;
+
+

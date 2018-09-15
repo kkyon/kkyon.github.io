@@ -5,14 +5,13 @@
     <description>Minimalist Jekyll theme for documentation site</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Sep 2018 11:34:54 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Sep 2018 11:34:54 +0800</lastBuildDate>
+    <pubDate>Sat, 15 Sep 2018 13:45:02 +0800</pubDate>
+    <lastBuildDate>Sat, 15 Sep 2018 13:45:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Botflow and jupyter notebook    analysis fresh real time data and visual crawler</title>
-        <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
+        <title>Botflow and Jupyter Notebook  - Analysis fresh real time data and visual crawler</title>
+        <description>&lt;html&gt;
 &lt;head&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;
 
 &lt;title&gt;Botflow and Jupyter - Analysis fresh real time data and visual crawler&lt;/title&gt;
@@ -13107,7 +13106,7 @@ div#notebook {
 &lt;/style&gt;
 
 &lt;!-- Custom stylesheet, it must be in the same directory as the html file --&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;custom.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;custom.css&quot; /&gt;
 
 &lt;!-- Loading mathjax macro --&gt;
 &lt;!-- Load mathjax --&gt;
@@ -13406,7 +13405,7 @@ It also return many unnecceary items .Don't worry about this .will clean it late
 
 
 &lt;div class=&quot;output_html rendered_html output_subarea &quot;&gt;
-&lt;li class=&quot;s-result-item celwidget AdHolder&quot; data-asin=&quot;1788295269&quot; id=&quot;result_0&quot;&gt;&lt;div class=&quot;s-item-container&quot;&gt;&lt;div class=&quot;a-fixed-left-grid&quot;&gt;&lt;div class=&quot;a-fixed-left-grid-inner&quot; style=&quot;padding-left:218px&quot;&gt;&lt;div class=&quot;a-fixed-left-grid-col a-col-left&quot; style=&quot;width:218px;margin-left:-218px;float:left;&quot;&gt;&lt;div class=&quot;a-row&quot;&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;a-column a-span12 a-text-center&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot;&gt;&lt;img alt=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot; class=&quot;s-access-image cfMarker&quot; data-search-image-load=&quot;&quot; height=&quot;218&quot; src=&quot;https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US218_.jpg&quot; srcset=&quot;https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US218_.jpg 1x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US327_FMwebp_QL65_.jpg 1.5x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US436_FMwebp_QL65_.jpg 2x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US500_FMwebp_QL65_.jpg 2.2935x&quot; width=&quot;218&quot;/&gt;&lt;/a&gt;&lt;div class=&quot;a-section a-spacing-none a-text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-fixed-left-grid-col a-col-right&quot; style=&quot;padding-left:2%;float:left;&quot;&gt;&lt;h5 class=&quot;a-spacing-none a-color-tertiary s-sponsored-list-header s-sponsored-header sp-pixel-data a-text-normal&quot; data-alt-pixel-url=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;eventType=2&amp;amp;adIndex=0&quot; data-page-layout=&quot;List&quot; data-page-num-columns=&quot;1&quot; data-page-number=&quot;1&quot; data-pixel-url=&quot;https://fls-na.amazon.com/1/amazon-clicks/1/OP/?requestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;childRequestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;widgetName=sp_atf&amp;amp;searchResultNumber=1&amp;amp;impressionRankOnAsin=1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&quot; data-view-pixel-url=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;adIndex=0&quot; data-widget=&quot;sp_atf&quot;&gt;Sponsored&lt;span class=&quot;a-declarative&quot; data-a-popover='{&quot;name&quot;:&quot;sponsored-header-1788295269&quot;,&quot;position&quot;:&quot;triggerRight&quot;}' data-action=&quot;a-popover&quot;&gt;&lt;span class=&quot;s-sponsored-info-icon a-inline-block s-sponsored-info-icon-base64&quot;&gt;&lt;/span&gt;
+&lt;li class=&quot;s-result-item celwidget AdHolder&quot; data-asin=&quot;1788295269&quot; id=&quot;result_0&quot;&gt;&lt;div class=&quot;s-item-container&quot;&gt;&lt;div class=&quot;a-fixed-left-grid&quot;&gt;&lt;div class=&quot;a-fixed-left-grid-inner&quot; style=&quot;padding-left:218px&quot;&gt;&lt;div class=&quot;a-fixed-left-grid-col a-col-left&quot; style=&quot;width:218px;margin-left:-218px;float:left;&quot;&gt;&lt;div class=&quot;a-row&quot;&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;a-column a-span12 a-text-center&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot;&gt;&lt;img alt=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot; class=&quot;s-access-image cfMarker&quot; data-search-image-load=&quot;&quot; height=&quot;218&quot; src=&quot;https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US218_.jpg&quot; srcset=&quot;https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US218_.jpg 1x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US327_FMwebp_QL65_.jpg 1.5x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US436_FMwebp_QL65_.jpg 2x, https://images-na.ssl-images-amazon.com/images/I/410gNSSY-+L._AC_US500_FMwebp_QL65_.jpg 2.2935x&quot; width=&quot;218&quot; /&gt;&lt;/a&gt;&lt;div class=&quot;a-section a-spacing-none a-text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-fixed-left-grid-col a-col-right&quot; style=&quot;padding-left:2%;float:left;&quot;&gt;&lt;h5 class=&quot;a-spacing-none a-color-tertiary s-sponsored-list-header s-sponsored-header sp-pixel-data a-text-normal&quot; data-alt-pixel-url=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;eventType=2&amp;amp;adIndex=0&quot; data-page-layout=&quot;List&quot; data-page-num-columns=&quot;1&quot; data-page-number=&quot;1&quot; data-pixel-url=&quot;https://fls-na.amazon.com/1/amazon-clicks/1/OP/?requestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;childRequestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;widgetName=sp_atf&amp;amp;searchResultNumber=1&amp;amp;impressionRankOnAsin=1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&quot; data-view-pixel-url=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;adIndex=0&quot; data-widget=&quot;sp_atf&quot;&gt;Sponsored&lt;span class=&quot;a-declarative&quot; data-a-popover=&quot;{&amp;quot;name&amp;quot;:&amp;quot;sponsored-header-1788295269&amp;quot;,&amp;quot;position&amp;quot;:&amp;quot;triggerRight&amp;quot;}&quot; data-action=&quot;a-popover&quot;&gt;&lt;span class=&quot;s-sponsored-info-icon a-inline-block s-sponsored-info-icon-base64&quot;&gt;&lt;/span&gt;
 &lt;/span&gt;&lt;script type=&quot;text/javascript&quot;&gt;
          P.when('A','SponsoredProductsRendering').execute('force-impression-logging-clicktime', function sponsoredRendering (A, SL) {
            var $ = A.$;
@@ -13489,12 +13488,12 @@ It also return many unnecceary items .Don't worry about this .will clean it late
        });
      &lt;/script&gt;
 &lt;noscript&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://fls-na.amazon.com/1/amazon-clicks/1/OP/?requestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;childRequestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;widgetName=sp_atf&amp;amp;searchResultNumber=1&amp;amp;impressionRankOnAsin=1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&quot;/&gt;&lt;/noscript&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://fls-na.amazon.com/1/amazon-clicks/1/OP/?requestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;childRequestId=CQ95D0VAKKAKEPRYMC9R&amp;amp;widgetName=sp_atf&amp;amp;searchResultNumber=1&amp;amp;impressionRankOnAsin=1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&quot; /&gt;&lt;/noscript&gt;
 &lt;noscript&gt;
-&lt;img alt=&quot;&quot; src=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;eventType=2&amp;amp;adIndex=0&quot;/&gt;&lt;/noscript&gt;
+&lt;img alt=&quot;&quot; src=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;eventType=2&amp;amp;adIndex=0&quot; /&gt;&lt;/noscript&gt;
 &lt;noscript&gt;
-&lt;img alt=&quot;&quot; src=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;adIndex=0&amp;amp;eventType=101&quot;/&gt;&lt;/noscript&gt;
-&lt;/h5&gt;&lt;div class=&quot;a-popover-preload&quot; id=&quot;a-popover-sponsored-header-1788295269&quot;&gt;&lt;span&gt;These are ads for products you'll find on Amazon.com. &lt;br/&gt;Clicking an ad will take you to the product's page.&lt;/span&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;a class=&quot;a-link-normal&quot; href=&quot;https://advertising.amazon.com/products-self-serve?ref_=ext_amzn_wtsp&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Learn more about Sponsored Products.&lt;/a&gt;&lt;div class=&quot;a-row a-spacing-top-small s-sponsored-feedback&quot;&gt;See a problem with these advertisements?&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-declarative&quot; data-a-modal=&quot;{&amp;quot;name&amp;quot;:&amp;quot;sponsored-products-feedback-modal-sp_atf&amp;quot;,&amp;quot;width&amp;quot;:&amp;quot;350&amp;quot;,&amp;quot;header&amp;quot;:&amp;quot;Share your feedback&amp;quot;,&amp;quot;footer&amp;quot;:&amp;quot;&amp;lt;div id='sponsored-products-feedback-footer'&amp;gt;&amp;lt;\/div&amp;gt;&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/gp/sponsored-products/lazyLoad/handler/sp-feedback-handler.html?pl=D48z4zAieFWWQuIpntKE6KqCE38Hx7YE92S2N44PABQbYU5RtcoDrrR0teHx6ew0r1hQHIcQXG6j%0AIMdW2WcGUivcBNrWaEKvU6mlVCdRhS%2Bo629Dcqw4FYSrxBFyGYmvm%2FetTUMfLdjxViEuzXrOzl2X%0App%2F5mW066mI0RT%2Fp%2FJ00OJTt1DbI4PSOJbwJD8KzLwiIL624Q7KziREa1YPKmmTgWC4cPkydKERk%0AcW5e64o5AkT0aQHgkJD1rKVAYVd7ZQLZg7xMyUAe%2FiJqQPuQwfWqR6FKyY5wN5koBYpllXgYdn3g%0A39f6IM1SmmrWmtcv5yQmO3YZ3Xu0cZL%2BIOWMEGVKBSDOKPKPzjFM23KUGS50pfgLirdhMnV01GiS%0A6LbU8VBhoo4FC5ZM9dYSAJaPKYCxArvx73q2qHtsb9Gnv63XGHJnJOfIgr2r2CMo7wkQXphndzHT%0AF%2BZzWyA3BzgXubkjMzSrHNGgRLEaNJ1DCjO0nPumbJTICQ%3D%3D&amp;quot;}&quot; data-action=&quot;a-modal&quot;&gt;&lt;a class=&quot;a-link-normal&quot; href=&quot;#&quot;&gt;Leave ad feedback&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-small&quot;&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal s-access-detail-page s-color-twister-title-link a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot; title=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot;&gt;&lt;h2 class=&quot;a-size-medium s-inline s-access-title a-text-normal&quot; data-attribute=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot; data-max-rows=&quot;0&quot;&gt;&lt;span class=&quot;a-offscreen&quot;&gt;[Sponsored]&lt;/span&gt;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&lt;/h2&gt;&lt;/a&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Aug 28, 2017&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;by &lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Allen Yu and &lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Claire Chung&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;span class=&quot;a-size-small&quot;&gt;Eligible for Shipping to China&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;a-row&quot;&gt;&lt;div class=&quot;a-column a-span7&quot;&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_twi_pap_1%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot; title=&quot;Paperback&quot;&gt;&lt;h3 class=&quot;a-size-small s-inline a-text-normal&quot; data-attribute=&quot;Paperback&quot; data-max-rows=&quot;0&quot; data-truncate-by-character=&quot;false&quot;&gt;Paperback&lt;/h3&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot;&gt;&lt;span class=&quot;a-offscreen&quot;&gt;$44.99&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;a-color-base sx-zero-spacing&quot;&gt;&lt;span class=&quot;sx-price sx-price-large&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;/gp/sponsored-products/logging/log-action.html?qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&amp;amp;adId=200004567537671&amp;amp;adIndex=0&amp;amp;eventType=101&quot; /&gt;&lt;/noscript&gt;
+&lt;/h5&gt;&lt;div class=&quot;a-popover-preload&quot; id=&quot;a-popover-sponsored-header-1788295269&quot;&gt;&lt;span&gt;These are ads for products you'll find on Amazon.com. &lt;br /&gt;Clicking an ad will take you to the product's page.&lt;/span&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;a class=&quot;a-link-normal&quot; href=&quot;https://advertising.amazon.com/products-self-serve?ref_=ext_amzn_wtsp&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Learn more about Sponsored Products.&lt;/a&gt;&lt;div class=&quot;a-row a-spacing-top-small s-sponsored-feedback&quot;&gt;See a problem with these advertisements?&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-declarative&quot; data-a-modal=&quot;{&amp;quot;name&amp;quot;:&amp;quot;sponsored-products-feedback-modal-sp_atf&amp;quot;,&amp;quot;width&amp;quot;:&amp;quot;350&amp;quot;,&amp;quot;header&amp;quot;:&amp;quot;Share your feedback&amp;quot;,&amp;quot;footer&amp;quot;:&amp;quot;&amp;lt;div id='sponsored-products-feedback-footer'&amp;gt;&amp;lt;\/div&amp;gt;&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/gp/sponsored-products/lazyLoad/handler/sp-feedback-handler.html?pl=D48z4zAieFWWQuIpntKE6KqCE38Hx7YE92S2N44PABQbYU5RtcoDrrR0teHx6ew0r1hQHIcQXG6j%0AIMdW2WcGUivcBNrWaEKvU6mlVCdRhS%2Bo629Dcqw4FYSrxBFyGYmvm%2FetTUMfLdjxViEuzXrOzl2X%0App%2F5mW066mI0RT%2Fp%2FJ00OJTt1DbI4PSOJbwJD8KzLwiIL624Q7KziREa1YPKmmTgWC4cPkydKERk%0AcW5e64o5AkT0aQHgkJD1rKVAYVd7ZQLZg7xMyUAe%2FiJqQPuQwfWqR6FKyY5wN5koBYpllXgYdn3g%0A39f6IM1SmmrWmtcv5yQmO3YZ3Xu0cZL%2BIOWMEGVKBSDOKPKPzjFM23KUGS50pfgLirdhMnV01GiS%0A6LbU8VBhoo4FC5ZM9dYSAJaPKYCxArvx73q2qHtsb9Gnv63XGHJnJOfIgr2r2CMo7wkQXphndzHT%0AF%2BZzWyA3BzgXubkjMzSrHNGgRLEaNJ1DCjO0nPumbJTICQ%3D%3D&amp;quot;}&quot; data-action=&quot;a-modal&quot;&gt;&lt;a class=&quot;a-link-normal&quot; href=&quot;#&quot;&gt;Leave ad feedback&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-small&quot;&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal s-access-detail-page s-color-twister-title-link a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot; title=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot;&gt;&lt;h2 class=&quot;a-size-medium s-inline s-access-title a-text-normal&quot; data-attribute=&quot;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&quot; data-max-rows=&quot;0&quot;&gt;&lt;span class=&quot;a-offscreen&quot;&gt;[Sponsored]&lt;/span&gt;Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python&lt;/h2&gt;&lt;/a&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-letter-space&quot;&gt;&lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Aug 28, 2017&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;by &lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Allen Yu and &lt;/span&gt;&lt;span class=&quot;a-size-small a-color-secondary&quot;&gt;Claire Chung&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;span class=&quot;a-size-small&quot;&gt;Eligible for Shipping to China&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;a-row&quot;&gt;&lt;div class=&quot;a-column a-span7&quot;&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_twi_pap_1%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot; title=&quot;Paperback&quot;&gt;&lt;h3 class=&quot;a-size-small s-inline a-text-normal&quot; data-attribute=&quot;Paperback&quot; data-max-rows=&quot;0&quot; data-truncate-by-character=&quot;false&quot;&gt;Paperback&lt;/h3&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;a-row a-spacing-none&quot;&gt;&lt;a class=&quot;a-link-normal a-text-normal&quot; href=&quot;/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&amp;amp;adId=A04794103EZM52VSV07ZR&amp;amp;url=https%3A%2F%2Fwww.amazon.com%2FMatplotlib-2-x-Example-Multi-dimensional-charts%2Fdp%2F1788295269%2Fref%3Dsr_1_1_sspa%2F136-9982183-6544141%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1536908344%26sr%3D1-1-spons%26keywords%3Dpython%26psc%3D1&amp;amp;qualifier=1536908344&amp;amp;id=88207326666658&amp;amp;widgetName=sp_atf&quot;&gt;&lt;span class=&quot;a-offscreen&quot;&gt;$44.99&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;a-color-base sx-zero-spacing&quot;&gt;&lt;span class=&quot;sx-price sx-price-large&quot;&gt;
 &lt;sup class=&quot;sx-price-currency&quot;&gt;$&lt;/sup&gt;
 &lt;span class=&quot;sx-price-whole&quot;&gt;44&lt;/span&gt;
 &lt;sup class=&quot;sx-price-fractional&quot;&gt;99&lt;/sup&gt;
@@ -14241,7 +14240,7 @@ Remenber ,test with only item firstly .If you feel it is ok we can run it will f
 
 &lt;div class=&quot;output_html rendered_html output_subarea output_execute_result&quot;&gt;
 &lt;div&gt;
-&lt;style scoped&gt;
+&lt;style scoped=&quot;&quot;&gt;
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -14477,251 +14476,11 @@ Remenber ,test with only item firstly .If you feel it is ok we can run it will f
         <link>http://localhost:4000//2018/09/13/Botflow-and-Jupyter-Notebook-Analysis-fresh-real-time-data-and-visual-crawler/</link>
         <guid isPermaLink="true">http://localhost:4000//2018/09/13/Botflow-and-Jupyter-Notebook-Analysis-fresh-real-time-data-and-visual-crawler/</guid>
         
+        <category>Botflow</category>
         
-      </item>
-    
-      <item>
-        <title>What's Jekyll?</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/15/whats-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/15/whats-jekyll/</guid>
+        <category>Jupyter Notebook</category>
         
-        <category>Demo</category>
-        
-        <category>Jekyll</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>History of Lorem Ipsum</title>
-        <description>&lt;h3 id=&quot;what-is-lorem-ipsum&quot;&gt;What is Lorem ipsum?&lt;/h3&gt;
-
-&lt;p&gt;A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available.&lt;/p&gt;
-
-&lt;p&gt;For example, when designing a brochure or book, a designer will insert Lorem ipsum text if the real text is not available. The Lorem ipsum text looks real enough that the brochure or book looks complete. The book or brochure can be shown to the client for approval.&lt;/p&gt;
-
-&lt;p&gt;The important factor when using Lorem ipsum text is that the text looks realistic otherwise the brochure or book will not look very good. Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.&lt;/p&gt;
-
-&lt;p&gt;Common names for Lorem ipsum text include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;blind text&lt;/li&gt;
-  &lt;li&gt;dummy text&lt;/li&gt;
-  &lt;li&gt;greeked text&lt;/li&gt;
-  &lt;li&gt;placeholder text&lt;/li&gt;
-  &lt;li&gt;mock content&lt;/li&gt;
-  &lt;li&gt;filler text&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;where-did-it-come-from-&quot;&gt;Where did it come from ?&lt;/h3&gt;
-
-&lt;p&gt;In design magazine, Before and After Magazine, a journalist wrote in volume 4, number 2 the following:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;After telling everyone that Lorem ipsum, the nonsensical text that comes with PageMaker, only looks like Latin but actually says nothing, I heard from Richard McClintock, publication director at the Hampden-Sydney College in Virginia, who had enlightening news:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum is latin, slightly jumbled, the remnants of a passage from Cicero’s ‘De finibus bonorum et malorum’ 1.10.32, which begins ‘Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…’ [There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain.]. [de Finibus Bonorum et Malorum, written in 45 BC, is a treatise on the theory of ethics very popular in the Renaisance.]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;What I find remarkable is that this text has been the industry’s standard dummy text ever since some printed in the 1500s took a galley of type and scrambled it to make a type specimen book; it has survived not only four centuries of letter-by-letter resetting but even the leap into electronic typesetting, essentially unchanged except for an occasional ‘ing’ or ‘y’ thrown in. It’s ironic that when the then-understood Latin was scrambled, it became as incomprehensible as Greek; the phrase ‘it’s Greek to me’ and ‘greeking’ have common semantic roots!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.alienshore.com/seeking/&quot;&gt;Rick Pali&lt;/a&gt; submitted this article to alt.fonts faqs because it was stated there that no one knew where it came from.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/15/history-of-lorem-ipsum/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/15/history-of-lorem-ipsum/</guid>
-        
-        <category>Demo</category>
-        
-        <category>Lorem Ipsum</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Example content</title>
-        <description>&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
-
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
-
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Clicking this number[^fn-sample_footnote]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Each footnote needs the &lt;code class=&quot;highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Inline code is available with the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; element. Snippets of multiple lines of code are supported through Pygments. Longer lines will automatically scroll horizontally when needed.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Footnotes:&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:fn-sample_footnote&quot;&gt;
-      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/15/example-content/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/15/example-content/</guid>
-        
-        <category>Demo</category>
-        
-        <category>Example Content</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>About this Jekyll theme</title>
-        <description>&lt;p&gt;Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Content-focused post layout&lt;/li&gt;
-  &lt;li&gt;Using system fonts like GitHub - no Google Fonts&lt;/li&gt;
-  &lt;li&gt;Supports article tagging&lt;/li&gt;
-  &lt;li&gt;White clean design&lt;/li&gt;
-  &lt;li&gt;Contains intro section on homepage&lt;/li&gt;
-  &lt;li&gt;Supports comment if enabled - using &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus comment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Responsive and mobile-friendly&lt;/li&gt;
-  &lt;li&gt;Post can have specific author name displayed on post metadata - apply via yaml front matter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/heiswayi/textlog&quot;&gt;Source code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//2017/01/15/about-this-jekyll-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000//2017/01/15/about-this-jekyll-theme/</guid>
-        
-        <category>Demo</category>
-        
-        <category>Jekyll</category>
+        <category>Web crawler</category>
         
         
       </item>
