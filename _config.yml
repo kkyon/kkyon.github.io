@@ -12,8 +12,9 @@ permalink: pretty
 
 # Third-party services
 # just leave empty to disable it
-google_analytics:
-disqus_shortname: 
+repository: kkyon/botflow
+google_analytics: UA-125816898-1
+disqus_shortname: kkyon
 
 plugins:
   - jekyll-sitemap
