@@ -1,2 +1,0 @@
-# kkyon.github.io
-hello
