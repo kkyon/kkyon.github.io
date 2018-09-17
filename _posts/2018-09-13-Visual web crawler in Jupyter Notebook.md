@@ -1,6 +1,6 @@
 ---
 layout: notebook_html
-title: Botflow and Jupyter Notebook  - Analysis fresh real time data and visual crawler
+title: Visual web crawler in Jupyter Notebook
 tags: [Botflow,Jupyter Notebook, Web crawler]
 comment: true
 ---

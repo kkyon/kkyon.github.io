@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2018/09/13/Visual-web-crawler-in-Jupyter-Notebook/</loc>
+<loc>http://localhost:4000/2018/09/13/Visual-web-crawler-in-Jupyter-Notebook/</loc>
 <lastmod>2018-09-13T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/draf/2017-01-15-about-this-jekyll-theme/</loc>
+<loc>http://localhost:4000/draf/2017-01-15-about-this-jekyll-theme/</loc>
 </url>
 <url>
-<loc>/draf/2017-01-15-example-content/</loc>
+<loc>http://localhost:4000/draf/2017-01-15-example-content/</loc>
 </url>
 <url>
-<loc>/draf/2017-01-15-history-of-lorem-ipsum/</loc>
+<loc>http://localhost:4000/draf/2017-01-15-history-of-lorem-ipsum/</loc>
 </url>
 <url>
-<loc>/draf/2017-01-15-whats-jekyll/</loc>
+<loc>http://localhost:4000/draf/2017-01-15-whats-jekyll/</loc>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/tagged/</loc>
+<loc>http://localhost:4000/tagged/</loc>
 </url>
 </urlset>

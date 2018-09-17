@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272d92c0-79f2-4836-90e7-b6bd6f8532d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/8cd26cdf9ea17d97fd8ef3d85f91346c02423e16/_layout.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/8cd26cdf9ea17d97fd8ef3d85f91346c02423e16/_layout.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-13-Botflow and Jupyter Notebook  - Analysis fresh real time data and visual crawler.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/09/13/Visual-web-crawler-in-Jupyter-Notebook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/09/13/Visual-web-crawler-in-Jupyter-Notebook/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/draf/2017-01-15-about-this-jekyll-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/draf/2017-01-15-about-this-jekyll-theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/draf/2017-01-15-example-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/draf/2017-01-15-example-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/draf/2017-01-15-history-of-lorem-ipsum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/draf/2017-01-15-history-of-lorem-ipsum/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/draf/2017-01-15-whats-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/draf/2017-01-15-whats-jekyll/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tagged/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tagged/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,8 +137,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="207" column="3" selection-start-line="207" selection-end-line="207" selection-end-column="3" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,6 +185,7 @@
         <option value="$PROJECT_DIR$/_sass/_layout.scss" />
         <option value="$PROJECT_DIR$/_includes/intro.html" />
         <option value="$PROJECT_DIR$/_posts/2018-09-15-Botflow and Jupyter Notebook - Analysis fresh real time data and visual crawler.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md" />
       </list>
     </option>
   </component>
@@ -276,6 +285,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,8 +451,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-13-Visual web crawler in Jupyter Notebook.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="207" column="3" selection-start-line="207" selection-end-line="207" selection-end-column="3" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
